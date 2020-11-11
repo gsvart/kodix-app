@@ -1,24 +1,11 @@
 # kodix-app
 
-## Project setup
-```
-npm install
-```
+## Тестовое задание
+Выполнены следующие пункты тестового задания:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Разработчику:
+1) Сверстать адаптивный попап
+2) Добавить логику для открытия/закрытия попала
+3) Добавить логику расчета и показа чек-боксов, исходя из зарплаты, введенной в
+инпуте
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
